@@ -13,7 +13,7 @@ a. Version: Python >= 3.11
 
 b Open the Power Shell how administrator and run the command: Set-ExecutionPolicy Unrestricted -Force (Windows)
 
-b. Create virtual environment: python -m venv venv (Windows)
+b. Create virtual environment: python -m venv seaborn (Windows)
 
 c. Activate virtual environment .\venv\Scripts\activate
 
